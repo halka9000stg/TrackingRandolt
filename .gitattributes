@@ -1,12 +1,12 @@
 
 
 # os rerated
-linux/*.cc linguist-generated=true
-windows/*.cc linguist-generated=true
-windows/*.cpp linguist-generated=true
-windows/*.h linguist-generated=true
-*/CMakeLists.txt linguist-generated=true
-*.cmake linguist-generated=true
-*.storyboard linguist-generated=true
-*.xml linguist-generated=true
-*.swift linguist-generated=true
+linux/**.cc linguist-generated=true
+windows/**.cc linguist-generated=true
+windows/**.cpp linguist-generated=true
+windows/**.h linguist-generated=true
+**/CMakeLists.txt linguist-generated=true
+**.cmake linguist-generated=true
+**.storyboard linguist-generated=true
+**.xml linguist-generated=true
+**.swift linguist-generated=true
